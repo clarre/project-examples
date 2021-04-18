@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: my_github
-      path: clarre/jfrog-quickstart-examples
+      path: clarre/project-examples/jfrog-quickstart-examples
       branches:
         include: master
   - name: myBuildInfo
